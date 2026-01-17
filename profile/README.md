@@ -12,6 +12,6 @@
 
   <br>
 
-  <img src="./cesar-couto-eIDXdlfelVE-unsplash.jpg" width="100%" alt="Kublanc Water Drop" style="border-radius: 8px;">
+  <img src="https://github.com/kublanc/.github/blob/main/profile/robert-anderson-0URG9Zya-Kw-unsplash.jpg?raw=true" width="100%" alt="Kublanc Water Drop" style="border-radius: 8px;">
 
 </div>

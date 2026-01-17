@@ -1,15 +1,17 @@
 <div align="center">
 
-  <img src="./cesar-couto-eIDXdlfelVE-unsplash.jpg" width="100%" style="border-radius: 8px;" alt="Kublanc Water Drop">
+  <br>
 
-  <br><br>
-
-  <h1 style="color: black; font-size: 40px; border-bottom: none; margin: 0; padding: 0;">
+  <h1 style="border-bottom: none; margin-bottom: 0; font-size: 2.5em;">
     Interchangeability is the prerequisite of scale.
   </h1>
 
-  <p style="color: #555;">
+  <p>
    [ Soon. ]
   </p>
+
+  <br>
+
+  <img src="./cesar-couto-eIDXdlfelVE-unsplash.jpg" width="100%" alt="Kublanc Water Drop" style="border-radius: 8px;">
 
 </div>
